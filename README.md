@@ -1,23 +1,19 @@
 <div align="center">
 
-```
- __  __ _   _ ____    _    ____ ___ ____
-|  \/  | | | |  _ \  / \  / ___|_ _|  _ \
-| |\/| | | | | | | |/ _ \ \___ \| || |_) |
-| |  | | |_| | |_| / ___ \ ___) | ||  _ <
-|_|  |_|\___/|____/_/   \_\____/___|_| \_\
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=MUDASIR%20AHMED%20ABRO&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" />
 
-### `$ whoami` → Full Stack Developer · Software Engineer · SWE @ Sukkur IBA
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2575FC&center=true&vCenter=true&width=650&lines=Building+end-to-end+Web+%26+Mobile+products+%F0%9F%9A%80;React.js+%C2%B7+Node.js+%C2%B7+MongoDB+%C2%B7+MySQL;Google+Certified+in+AI+%26+Automation;Turning+ideas+into+production-ready+code" />
+</a>
 
-**Building end-to-end web & mobile products, from database to deploy** 🚀
+<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/▲_PORTFOLIO-000000?style=for-the-badge)](https://github.com/mudasirabro)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mudasir-ahmed-abro)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mudasirabro)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mudasirahmedabro@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=mudasirabro&style=for-the-badge&color=blue&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=mudasirabro&style=for-the-badge&color=6A11CB&label=PROFILE+VIEWS)
 
 </div>
 
@@ -126,3 +122,5 @@ Results-driven **Full Stack Developer** with hands-on experience building and de
 📫 **Reach me at:** mudasirahmedabro@gmail.com
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,100:6A11CB&height=120&section=footer" />
