@@ -89,8 +89,12 @@ Results-driven **Full Stack Developer** with hands-on experience building and de
 
 <div align="center">
 
-[![Simple-Recipe-Helper-App](https://github-readme-stats.vercel.app/api/pin/?username=mudasirabro&repo=Simple-Recipe-Helper-App&theme=default)](https://github.com/mudasirabro/Simple-Recipe-Helper-App)
-[![Habit-tracker-pro](https://github-readme-stats.vercel.app/api/pin/?username=mudasirabro&repo=Habit-tracker-pro&theme=default)](https://github.com/mudasirabro/Habit-tracker-pro)
+<a href="https://github.com/mudasirabro/Simple-Recipe-Helper-App">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=mudasirabro&repo=Simple-Recipe-Helper-App&theme=tokyonight&title_color=A78BFA&icon_color=2575FC&text_color=e6e6f0&bg_color=0D1117&border_color=6A11CB&border_radius=12" />
+</a>
+<a href="https://github.com/mudasirabro/Habit-tracker-pro">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=mudasirabro&repo=Habit-tracker-pro&theme=tokyonight&title_color=A78BFA&icon_color=2575FC&text_color=e6e6f0&bg_color=0D1117&border_color=6A11CB&border_radius=12" />
+</a>
 
 </div>
 
@@ -100,8 +104,13 @@ Results-driven **Full Stack Developer** with hands-on experience building and de
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mudasirabro&show_icons=true&theme=default&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mudasirabro&theme=default&hide_border=true)
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=mudasirabro&show_icons=true&count_private=true&theme=tokyonight&title_color=A78BFA&icon_color=2575FC&text_color=e6e6f0&bg_color=0D1117&border_color=6A11CB&border_radius=12&hide_border=false" />
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=mudasirabro&theme=tokyonight&hide_border=false&border_radius=12&background=0D1117&stroke=6A11CB&ring=2575FC&fire=A78BFA&currStreakLabel=A78BFA" />
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudasirabro&layout=compact&theme=tokyonight&title_color=A78BFA&text_color=e6e6f0&bg_color=0D1117&border_color=6A11CB&border_radius=12&hide_border=false" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mudasirabro&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=2575FC&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
