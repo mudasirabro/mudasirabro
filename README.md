@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/▲_PORTFOLIO-000000?style=for-the-badge)](https://github.com/mudasirabro)
+[![Portfolio](https://img.shields.io/badge/▲_PORTFOLIO-000000?style=for-the-badge)](https://mudasir-ahmed-abro-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mudasir-ahmed-abro)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mudasirabro)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mudasirahmedabro@gmail.com)
