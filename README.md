@@ -25,7 +25,6 @@ Results-driven **Full Stack Developer** with hands-on experience building and de
 
 - 🎓 BS Software Engineering, **Sukkur IBA University** (2022 – 2026)
 - 💼 Freelance Full Stack Developer on **Fiverr & Upwork** — 4+ shipped production apps, 100% on-time delivery
-- 🏢 Web Development Intern @ **EvoDynamics Vision**
 - 🌱 Currently exploring: AI-integrated full stack apps & prompt engineering
 
 ---
