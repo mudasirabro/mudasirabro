@@ -21,7 +21,7 @@
 
 ### 🧑‍💻 About Me
 
-Results-driven **Full Stack Developer** with hands-on experience building and deploying production-ready web and mobile applications across e-commerce, AI, and enterprise domains. Proficient across the complete SDLC — from responsive front-ends to scalable RESTful APIs and database architecture. Google-certified in **IT Automation with Python**, **Project Management**, and **AI**.
+Results-driven **Full Stack Developer** with hands-on experience building and deploying production-ready web and mobile applications across e-commerce, AI, and enterprise domains. Proficient across the complete SDLC — from responsive front-ends to scalable RESTful APIs and database architecture. Certified by **Google** and **Meta** across AI, Advanced Data Analytics, IT Automation, and Front-End Development.
 
 - 🎓 BS Software Engineering, **Sukkur IBA University** (2022 – 2026)
 - 💼 Freelance Full Stack Developer on **Fiverr & Upwork** — 4+ shipped production apps, 100% on-time delivery
@@ -88,11 +88,20 @@ Results-driven **Full Stack Developer** with hands-on experience building and de
 
 <div align="center">
 
-<a href="https://github.com/mudasirabro/Simple-Recipe-Helper-App">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=mudasirabro&repo=Simple-Recipe-Helper-App&theme=tokyonight&title_color=A78BFA&icon_color=2575FC&text_color=e6e6f0&bg_color=0D1117&border_color=6A11CB&border_radius=12" />
-</a>
 <a href="https://github.com/mudasirabro/Habit-tracker-pro">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=mudasirabro&repo=Habit-tracker-pro&theme=tokyonight&title_color=A78BFA&icon_color=2575FC&text_color=e6e6f0&bg_color=0D1117&border_color=6A11CB&border_radius=12" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mudasirabro&repo=Habit-tracker-pro&theme=tokyonight&title_color=A78BFA&icon_color=2575FC&text_color=e6e6f0&bg_color=0D1117&border_color=6A11CB&border_radius=12" />
+</a>
+<a href="https://github.com/mudasirabro/mudasir-ahmed-abro-portfolio">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mudasirabro&repo=mudasir-ahmed-abro-portfolio&theme=tokyonight&title_color=A78BFA&icon_color=2575FC&text_color=e6e6f0&bg_color=0D1117&border_color=6A11CB&border_radius=12" />
+</a>
+
+<br/>
+
+<a href="https://github.com/mudasirabro/mudasirverse">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mudasirabro&repo=mudasirverse&theme=tokyonight&title_color=A78BFA&icon_color=2575FC&text_color=e6e6f0&bg_color=0D1117&border_color=6A11CB&border_radius=12" />
+</a>
+<a href="https://github.com/mudasirabro/Noveira">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mudasirabro&repo=Noveira&theme=tokyonight&title_color=A78BFA&icon_color=2575FC&text_color=e6e6f0&bg_color=0D1117&border_color=6A11CB&border_radius=12" />
 </a>
 
 </div>
@@ -103,8 +112,8 @@ Results-driven **Full Stack Developer** with hands-on experience building and de
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=mudasirabro&show_icons=true&count_private=true&theme=tokyonight&title_color=A78BFA&icon_color=2575FC&text_color=e6e6f0&bg_color=0D1117&border_color=6A11CB&border_radius=12&hide_border=false" />
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=mudasirabro&theme=tokyonight&hide_border=false&border_radius=12&background=0D1117&stroke=6A11CB&ring=2575FC&fire=A78BFA&currStreakLabel=A78BFA" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mudasirabro&show_icons=true&count_private=true&theme=tokyonight&title_color=A78BFA&icon_color=2575FC&text_color=e6e6f0&bg_color=0D1117&border_color=6A11CB&border_radius=12&hide_border=false" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=mudasirabro&theme=tokyonight&hide_border=false&border_radius=12&background=0D1117&stroke=6A11CB&ring=2575FC&fire=A78BFA&currStreakLabel=A78BFA" />
 
 <br/>
 
@@ -117,9 +126,12 @@ Results-driven **Full Stack Developer** with hands-on experience building and de
 
 ### 🏆 Certifications
 
-- **Google IT Automation with Python** Professional Certificate — 2026
-- **Google Project Management** Professional Certificate — 2026
-- **Google AI** Professional Certificate — 2026
+| Certificate | Year | Verify |
+|---|---|---|
+| **Meta Front-End Developer** Professional Certificate | 2026 | [↗](https://coursera.org/verify/professional-cert/SWDZZUJZAZ06) |
+| **Google IT Automation with Python** Professional Certificate | 2026 | [↗](https://coursera.org/verify/professional-cert/5V7PGR43TZGI) |
+| **Google Advanced Data Analytics** Certificate | 2026 | [↗](https://coursera.org/verify/professional-cert/C6WGLX3FN30J) |
+| **Google AI** Professional Certificate | 2026 | [↗](https://coursera.org/verify/professional-cert/EEMOLF5E7TNV) |
 
 ---
 
