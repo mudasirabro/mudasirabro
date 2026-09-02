@@ -25,8 +25,7 @@ Results-driven **Full Stack Developer** with hands-on experience building and de
 
 - 🎓 BS Software Engineering, **Sukkur IBA University** (2022 – 2026)
 - 🏢 **Frontend AI Engineering Intern** @ **FlyRank AI** — built and shipped React.js/Next.js features for AI-powered web apps across Agile sprint cycles (Jul – Aug 2026)
-- 💼 **Freelance Full Stack Developer** on **Fiverr & Upwork** — 4+ shipped production apps, 100% on-time delivery
-- 🌱 Currently exploring: AI-integrated full stack apps & prompt engineering
+
 
 ---
 
@@ -42,15 +41,6 @@ Results-driven **Full Stack Developer** with hands-on experience building and de
 
 > Built and shipped frontend features for AI-powered web applications using **React.js** and **Next.js** across multiple Agile sprint cycles. Developed reusable UI components, integrated REST APIs, and implemented client-side state management. Contributed to a capstone **AI-powered data profiling app** — implementing core frontend logic, optimising API call efficiency, and writing automated tests with **Vitest**. Collaborated with mentors and engineers through code reviews, debugging sessions, and Agile workflows on a live production codebase.
 
-<table>
-  <tr>
-    <td><strong>🌐 Freelance Full Stack Developer</strong></td>
-    <td><strong>Fiverr & Upwork</strong></td>
-    <td>Jan 2024 – Present</td>
-  </tr>
-</table>
-
-> Designed and delivered 4+ production-ready full stack web and mobile applications for clients across e-commerce, food delivery, and enterprise management — end-to-end from requirements to deployment with a **100% on-time delivery rate**. Architected **RESTful APIs** with JWT auth, optimised page load speeds by 30%, and operated in self-managed Agile sprints with clean, documented codebases.
 
 ---
 
