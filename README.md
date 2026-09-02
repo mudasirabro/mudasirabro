@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=MUDASIR%20AHMED%20ABRO&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2575FC&center=true&vCenter=true&width=650&lines=Building+end-to-end+Web+%26+Mobile+products+%F0%9F%9A%80;React.js+%C2%B7+Node.js+%C2%B7+MongoDB+%C2%B7+MySQL;Google+Certified+in+AI+%26+Automation;Turning+ideas+into+production-ready+code" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2575FC&center=true&vCenter=true&width=650&lines=Building+end-to-end+Web+%26+AI+products+%F0%9F%9A%80;React.js+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript;Frontend+AI+Engineering+Intern+%40+FlyRank+AI;Google+%26+Meta+Certified+%7C+4%2B+Production+Apps" />
 </a>
 
 <br/><br/>
@@ -24,8 +24,33 @@
 Results-driven **Full Stack Developer** with hands-on experience building and deploying production-ready web and mobile applications across e-commerce, AI, and enterprise domains. Proficient across the complete SDLC — from responsive front-ends to scalable RESTful APIs and database architecture. Certified by **Google** and **Meta** across AI, Advanced Data Analytics, IT Automation, and Front-End Development.
 
 - 🎓 BS Software Engineering, **Sukkur IBA University** (2022 – 2026)
-- 💼 Freelance Full Stack Developer on **Fiverr & Upwork** — 4+ shipped production apps, 100% on-time delivery
+- 🏢 **Frontend AI Engineering Intern** @ **FlyRank AI** — built and shipped React.js/Next.js features for AI-powered web apps across Agile sprint cycles (Jul – Aug 2026)
+- 💼 **Freelance Full Stack Developer** on **Fiverr & Upwork** — 4+ shipped production apps, 100% on-time delivery
 - 🌱 Currently exploring: AI-integrated full stack apps & prompt engineering
+
+---
+
+### 💼 Professional Experience
+
+<table>
+  <tr>
+    <td><strong>🏢 Frontend AI Engineering Intern</strong></td>
+    <td><strong>FlyRank AI</strong></td>
+    <td>Jul 2026 – Aug 2026</td>
+  </tr>
+</table>
+
+> Built and shipped frontend features for AI-powered web applications using **React.js** and **Next.js** across multiple Agile sprint cycles. Developed reusable UI components, integrated REST APIs, and implemented client-side state management. Contributed to a capstone **AI-powered data profiling app** — implementing core frontend logic, optimising API call efficiency, and writing automated tests with **Vitest**. Collaborated with mentors and engineers through code reviews, debugging sessions, and Agile workflows on a live production codebase.
+
+<table>
+  <tr>
+    <td><strong>🌐 Freelance Full Stack Developer</strong></td>
+    <td><strong>Fiverr & Upwork</strong></td>
+    <td>Jan 2024 – Present</td>
+  </tr>
+</table>
+
+> Designed and delivered 4+ production-ready full stack web and mobile applications for clients across e-commerce, food delivery, and enterprise management — end-to-end from requirements to deployment with a **100% on-time delivery rate**. Architected **RESTful APIs** with JWT auth, optimised page load speeds by 30%, and operated in self-managed Agile sprints with clean, documented codebases.
 
 ---
 
@@ -34,15 +59,23 @@ Results-driven **Full Stack Developer** with hands-on experience building and de
 **Frontend**
 
 ![React](https://img.shields.io/badge/REACT.JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+**AI / ML & APIs**
+
+![Gemini](https://img.shields.io/badge/GOOGLE_GEMINI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OPENAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 **Mobile**
 
@@ -51,6 +84,7 @@ Results-driven **Full Stack Developer** with hands-on experience building and de
 
 **Languages**
 
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -58,6 +92,8 @@ Results-driven **Full Stack Developer** with hands-on experience building and de
 
 **Databases**
 
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -65,9 +101,11 @@ Results-driven **Full Stack Developer** with hands-on experience building and de
 
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vitest](https://img.shields.io/badge/VITEST-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
 `Agile/Scrum` · `SDLC` · `OOP` · `MVC Architecture` · `Data Structures & Algorithms` · `REST API Design`
 
@@ -77,10 +115,12 @@ Results-driven **Full Stack Developer** with hands-on experience building and de
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **AI-Powered Resume Builder** | React.js, Node.js, Express.js, OpenAI API, MongoDB | Generates tailored, ATS-optimised resumes using prompt engineering — cut manual resume writing time by 80% |
-| **E-Commerce Web Application** | React.js, Node.js, Express.js, MongoDB, JWT | Full transactional platform with secure auth, dynamic catalogue, and complete checkout flow |
-| **Food Delivery Mobile App** | React Native, Node.js, Express.js, MongoDB | Cross-platform app with real-time order tracking & multi-role user management (customer/restaurant/admin) |
-| **School Management System** | React.js, Node.js, Express.js, MySQL | 3-role enterprise platform managing 200+ student records with automated attendance & grading |
+| **[InsightNova: AI Data Profiling Studio](https://github.com/mudasirabro/InsightNova)** | Next.js, TypeScript, Gemini 2.0 Flash, Vitest | Client-side O(N) stats engine profiling CSV/JSON in <150ms; token-efficient Gemini pipeline with 14 automated tests |
+| **[Noveira Atelier: Ecommerce Platform](https://github.com/mudasirabro/Noveira)** | Next.js 16, TypeScript, Supabase, Tailwind | Full stack ecommerce with admin portal, RLS access control, and SSR cart/wishlist sync |
+| **[MudasirVerse: AI Movie Discovery](https://github.com/mudasirabro/mudasirverse)** | React, TypeScript, Gemini API, TMDB API | Mood-based AI recommendations with TMDB fallback and AI-generated watchlist summaries |
+| **[School Management System](https://github.com/mudasirabro/school-management-system)** | React.js, Node.js, Express.js, MySQL | 3-role enterprise platform with 15+ table schema, RBAC, and automated timetable conflict detection |
+| **AI-Powered Resume Builder** | React.js, Node.js, OpenAI API, MongoDB | Generates ATS-optimised resumes via prompt engineering — cut writing time by 80% |
+| **Food Delivery Mobile App** | React Native, Node.js, MongoDB | Cross-platform app with real-time order tracking & multi-role user management |
 
 ---
 
