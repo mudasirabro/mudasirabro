@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=240&section=header&text=MUDASIR%20AHMED%20ABRO&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=56&descSize=21&animation=fadeIn&stroke=ffffff&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=MUDASIR%20AHMED%20ABRO&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&pause=1000&color=2575FC&center=true&vCenter=true&width=700&height=40&lines=Building+end-to-end+Web+%26+AI+products+%F0%9F%9A%80;React.js+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript;Frontend+AI+Engineering+Intern+%40+FlyRank+AI+%F0%9F%A4%96;Google+%26+Meta+Certified+Developer+%F0%9F%8F%86;4%2B+Production+Apps+%7C+100%25+On-Time+Delivery;Turning+ideas+into+production-ready+code+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2575FC&center=true&vCenter=true&width=650&lines=Building+end-to-end+Web+%26+AI+products+%F0%9F%9A%80;React.js+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript;Frontend+AI+Engineering+Intern+%40+FlyRank+AI;Google+%26+Meta+Certified+%7C+4%2B+Production+Apps" />
 </a>
 
 <br/><br/>
@@ -13,21 +13,7 @@
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mudasirabro)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mudasirahmedabro@gmail.com)
 
-<br/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=mudasirabro&style=for-the-badge&color=6A11CB&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/mudasirabro?style=for-the-badge&color=2575FC&labelColor=0D1117&label=FOLLOWERS)
-![GitHub stars](https://img.shields.io/github/stars/mudasirabro?style=for-the-badge&color=A78BFA&labelColor=0D1117&label=TOTAL+STARS)
-
-</div>
-
----
-
-<div align="center">
-
-### 🔨 &nbsp;Currently Building
-
-`AI-powered full stack applications` &nbsp;·&nbsp; `Next.js + TypeScript + LLM integrations` &nbsp;·&nbsp; `Production-grade tools`
 
 </div>
 
@@ -35,37 +21,30 @@
 
 ### 🧑‍💻 About Me
 
-Results-driven **Full Stack Developer** with hands-on experience building and deploying production-ready web and mobile applications across e-commerce, AI, and enterprise domains. Proficient across the complete SDLC, covering responsive front-ends, scalable RESTful APIs, and database architecture. Certified by **Google** and **Meta** across AI, Advanced Data Analytics, IT Automation, and Front-End Development.
+Results-driven **Full Stack Developer** with hands-on experience building and deploying production-ready web and mobile applications across e-commerce, AI, and enterprise domains. Proficient across the complete SDLC — from responsive front-ends to scalable RESTful APIs and database architecture. Certified by **Google** and **Meta** across AI, Advanced Data Analytics, IT Automation, and Front-End Development.
 
-- 🎓 &nbsp;BS Software Engineering, **Sukkur IBA University** (2022 – 2026)
-- 🤖 &nbsp;**Frontend AI Engineering Intern** @ **FlyRank AI** — shipped React.js/Next.js features for AI products across Agile sprint cycles (Jul – Aug 2026)
-- 🌱 &nbsp;Exploring: AI-integrated full stack applications and prompt engineering
+- 🎓 BS Software Engineering, **Sukkur IBA University** (2022 – 2026)
+- 🏢 **Frontend AI Engineering Intern** @ **FlyRank AI** — built and shipped React.js/Next.js features for AI-powered web apps across Agile sprint cycles (Jul – Aug 2026)
+
 
 ---
 
 ### 💼 Professional Experience
 
-<br/>
-
-<table width="100%">
+<table>
   <tr>
-    <td width="34%"><strong>🤖 &nbsp;Frontend AI Engineering Intern</strong></td>
-    <td width="33%" align="center"><strong>FlyRank AI</strong></td>
-    <td width="33%" align="right"><code>Jul 2026 – Aug 2026</code></td>
+    <td><strong>🏢 Frontend AI Engineering Intern</strong></td>
+    <td><strong>FlyRank AI</strong></td>
+    <td>Jul 2026 – Aug 2026</td>
   </tr>
 </table>
 
-> Built and shipped frontend features for AI-powered web applications using **React.js** and **Next.js** across multiple Agile sprint cycles. Developed responsive and reusable UI components, integrated REST APIs, and implemented client-side state management. Contributed to a capstone **AI-powered data profiling application**: implementing core frontend logic, optimising API call efficiency, and writing automated tests with **Vitest**. Collaborated with mentors and engineers through code reviews, debugging sessions, and Agile workflows on a live production codebase.
-
-<br/>
-
+> Built and shipped frontend features for AI-powered web applications using **React.js** and **Next.js** across multiple Agile sprint cycles. Developed reusable UI components, integrated REST APIs, and implemented client-side state management. Contributed to a capstone **AI-powered data profiling app** — implementing core frontend logic, optimising API call efficiency, and writing automated tests with **Vitest**. Collaborated with mentors and engineers through code reviews, debugging sessions, and Agile workflows on a live production codebase.
 
 
 ---
 
 ### `$ ls ./skills/`
-
-<br/>
 
 **Frontend**
 
@@ -108,7 +87,7 @@ Results-driven **Full Stack Developer** with hands-on experience building and de
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools & DevOps**
+**Tools & Practices**
 
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -118,22 +97,20 @@ Results-driven **Full Stack Developer** with hands-on experience building and de
 ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vitest](https://img.shields.io/badge/VITEST-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
-<br/>
-
-`Agile/Scrum` &nbsp;·&nbsp; `SDLC` &nbsp;·&nbsp; `OOP` &nbsp;·&nbsp; `MVC Architecture` &nbsp;·&nbsp; `Data Structures & Algorithms` &nbsp;·&nbsp; `REST API Design`
+`Agile/Scrum` · `SDLC` · `OOP` · `MVC Architecture` · `Data Structures & Algorithms` · `REST API Design`
 
 ---
 
 ### 🚀 Featured Projects
 
 | Project | Stack | Highlights |
-|:---|:---|:---|
-| **[InsightNova: AI Data Profiling Studio](https://github.com/mudasirabro/InsightNova)** | Next.js · TypeScript · Gemini 2.0 Flash · Vitest | Client-side O(N) stats engine profiling CSV/JSON in under 150ms; token-efficient Gemini pipeline with 14 automated tests |
-| **[Noveira Atelier: Ecommerce Platform](https://github.com/mudasirabro/Noveira)** | Next.js 16 · TypeScript · Supabase · Tailwind | Full stack ecommerce with admin portal, RLS access control, and SSR cart/wishlist sync |
-| **[MudasirVerse: AI Movie Discovery](https://github.com/mudasirabro/mudasirverse)** | React · TypeScript · Gemini API · TMDB API | Mood-based AI recommendations with TMDB fallback and AI-generated watchlist summaries |
-| **[School Management System](https://github.com/mudasirabro/school-management-system)** | React.js · Node.js · Express.js · MySQL | 3-role enterprise platform with 15+ table schema, RBAC, and automated timetable conflict detection |
-| **AI-Powered Resume Builder** | React.js · Node.js · OpenAI API · MongoDB | Generates ATS-optimised resumes via prompt engineering, cutting writing time by 80% |
-| **Food Delivery Mobile App** | React Native · Node.js · MongoDB | Cross-platform app with real-time order tracking and multi-role user management |
+|---|---|---|
+| **[InsightNova: AI Data Profiling Studio](https://github.com/mudasirabro/InsightNova)** | Next.js, TypeScript, Gemini 2.0 Flash, Vitest | Client-side O(N) stats engine profiling CSV/JSON in <150ms; token-efficient Gemini pipeline with 14 automated tests |
+| **[Noveira Atelier: Ecommerce Platform](https://github.com/mudasirabro/Noveira)** | Next.js 16, TypeScript, Supabase, Tailwind | Full stack ecommerce with admin portal, RLS access control, and SSR cart/wishlist sync |
+| **[MudasirVerse: AI Movie Discovery](https://github.com/mudasirabro/mudasirverse)** | React, TypeScript, Gemini API, TMDB API | Mood-based AI recommendations with TMDB fallback and AI-generated watchlist summaries |
+| **[School Management System](https://github.com/mudasirabro/school-management-system)** | React.js, Node.js, Express.js, MySQL | 3-role enterprise platform with 15+ table schema, RBAC, and automated timetable conflict detection |
+| **AI-Powered Resume Builder** | React.js, Node.js, OpenAI API, MongoDB | Generates ATS-optimised resumes via prompt engineering — cut writing time by 80% |
+| **Food Delivery Mobile App** | React Native, Node.js, MongoDB | Cross-platform app with real-time order tracking & multi-role user management |
 
 ---
 
@@ -177,56 +154,23 @@ Results-driven **Full Stack Developer** with hands-on experience building and de
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Certifications
 
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=mudasirabro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-
-</div>
-
----
-
-### 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/mudasirabro/mudasirabro/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/mudasirabro/mudasirabro/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation"
-    src="https://raw.githubusercontent.com/mudasirabro/mudasirabro/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-> ⚙️ **Setup required:** Add `.github/workflows/snake.yml` to your profile repo — see [Platane/snk](https://github.com/Platane/snk) for the 5-minute setup guide.
-
-</div>
-
----
-
-### 🏅 Certifications
-
-| Certificate | Issuer | Year | Verify |
-|:---|:---|:---:|:---:|
-| **Meta Front-End Developer** Professional Certificate | Meta · Coursera | 2026 | [↗](https://coursera.org/verify/professional-cert/SWDZZUJZAZ06) |
-| **Google IT Automation with Python** Professional Certificate | Google · Coursera | 2026 | [↗](https://coursera.org/verify/professional-cert/5V7PGR43TZGI) |
-| **Google Advanced Data Analytics** Certificate | Google · Coursera | 2026 | [↗](https://coursera.org/verify/professional-cert/C6WGLX3FN30J) |
-| **Google AI** Professional Certificate | Google · Coursera | 2026 | [↗](https://coursera.org/verify/professional-cert/EEMOLF5E7TNV) |
+| Certificate | Year | Verify |
+|---|---|---|
+| **Meta Front-End Developer** Professional Certificate | 2026 | [↗](https://coursera.org/verify/professional-cert/SWDZZUJZAZ06) |
+| **Google IT Automation with Python** Professional Certificate | 2026 | [↗](https://coursera.org/verify/professional-cert/5V7PGR43TZGI) |
+| **Google Advanced Data Analytics** Certificate | 2026 | [↗](https://coursera.org/verify/professional-cert/C6WGLX3FN30J) |
+| **Google AI** Professional Certificate | 2026 | [↗](https://coursera.org/verify/professional-cert/EEMOLF5E7TNV) |
 
 ---
 
 <div align="center">
 
-*"Talk is cheap. Show me the code."*
-<br/>
-<sub>Linus Torvalds</sub>
+*"Talk is cheap. Show me the code."* — Linus Torvalds
 
-<br/><br/>
-
-📫 &nbsp;**mudasirahmedabro@gmail.com**
+📫 **Reach me at:** mudasirahmedabro@gmail.com
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,100:6A11CB&height=130&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,100:6A11CB&height=120&section=footer" />
